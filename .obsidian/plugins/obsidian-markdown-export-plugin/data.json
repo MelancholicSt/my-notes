@@ -1,0 +1,10 @@
+{
+  "output": "output",
+  "attachment": "attachment",
+  "displayImageAsHtml": false,
+  "GFM": true,
+  "fileNameEncode": true,
+  "removeOutgoingLinkBrackets": true,
+  "includeFileName": false,
+  "customFileName": ""
+}
